@@ -1,2 +1,2 @@
-# Uzumaki-Store
-Activitie - FATEC - Web Development
+# loja-uzumaki
+Trabalho - FATEC - Web Desenvolvimento
