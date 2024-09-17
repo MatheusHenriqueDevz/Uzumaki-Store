@@ -7,3 +7,7 @@ Contribuintes
 - Luiz Guilherme Barcelos Dos Santos
 - Walison Lopes Souza
 
+
+<!-- Link do site -->
+
+https://matheushenriquedevz.github.io/Uzumaki-Store/
